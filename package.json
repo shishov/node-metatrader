@@ -1,0 +1,25 @@
+{
+  "name": "metatrader",
+  "version": "0.0.28",
+  "author": "Kiba;The <agrekov@aforex.ru>",
+  "repository": "thekiba/node-metatrader",
+  "dependencies": {
+    "express": "~4.11.2",
+    "coffee-script": ">=1.0.0"
+  },
+  "devDependencies": {
+    "chai":"2.0.0",
+    "mocha":"2.1.0",
+    "sinon":"1.12.2"
+  },
+  "engines": {
+    "node": "~0.8.26"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "postinstall": "coffee --compile ."
+  }
+}

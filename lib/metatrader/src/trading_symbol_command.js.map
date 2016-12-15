@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "trading_symbol_command.js",
+  "sourceRoot": "",
+  "sources": [
+    "trading_symbol_command.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,0CAAA;;AAAA,EAAA,gBAAA,GAAmB,OAAA,CAAS,wBAAT,CAAnB,CAAA;;AAAA,EAEM;AAES,IAAA,kCAAA,GAAA,CAAb;;AAAA,uCAEA,eAAA,GAAiB,SAAA,GAAA;aACd,+CADc;IAAA,CAFjB,CAAA;;AAAA,uCAKA,eAAA,GAAiB,SAAC,IAAD,GAAA;AACf,aAAO,IAAI,CAAC,KAAL,CAAW,IAAI,CAAC,QAAL,CAAA,CAAX,CAAP,CADe;IAAA,CALjB,CAAA;;oCAAA;;MAJF,CAAA;;AAAA,EAYA,MAAM,CAAC,OAAP,GAAiB,wBAZjB,CAAA;AAAA"
+}

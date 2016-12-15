@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "interface_creator.js",
+  "sourceRoot": "",
+  "sources": [
+    "interface_creator.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,gBAAA;;AAAA,EAAA,MAAM,CAAC,OAAP,GAAuB;kCAErB;;AAAA,+BAAA,YAAA,GAAc,SAAC,QAAD,GAAA;AACZ,YAAU,IAAA,SAAA,CAAW,mEAAX,CAAV,CADY;IAAA,CAAd,CAAA;;AAAA,+BAGA,cAAA,GAAgB,SAAA,GAAA;AACd,YAAU,IAAA,SAAA,CAAW,6DAAX,CAAV,CADc;IAAA,CAHhB,CAAA;;4BAAA;;MAFF,CAAA;AAAA"
+}

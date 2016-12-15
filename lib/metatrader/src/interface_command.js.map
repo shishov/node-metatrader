@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "interface_command.js",
+  "sourceRoot": "",
+  "sources": [
+    "interface_command.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,gBAAA;;AAAA,EAAA,MAAM,CAAC,OAAP,GAAuB;kCAErB;;AAAA,+BAAA,eAAA,GAAiB,SAAA,GAAA;AACf,YAAU,IAAA,SAAA,CAAW,8DAAX,CAAV,CADe;IAAA,CAAjB,CAAA;;AAAA,+BAGA,gBAAA,GAAkB,SAAC,MAAD,GAAA;AAChB,YAAU,IAAA,SAAA,CAAW,qEAAX,CAAV,CADgB;IAAA,CAHlB,CAAA;;AAAA,+BAMA,eAAA,GAAiB,SAAC,QAAD,GAAA;AACf,YAAU,IAAA,SAAA,CAAW,sEAAX,CAAV,CADe;IAAA,CANjB,CAAA;;4BAAA;;MAFF,CAAA;AAAA"
+}
